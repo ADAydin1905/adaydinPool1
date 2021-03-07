@@ -1,7 +1,7 @@
 {
   "name": "ADAydin Pool1",
   "description": "This is the first ADAydin Pool",
-  "ticker": "XPOOL",
+  "ticker": "ADAy1",
   "homepage": "https://github.com/ADAydin1905/adaydinPool1",
-  "extended": "https://github.com/ADAydin1905/adaydinPool1/xpool-main.extended.json"
+  "extended": "https://github.com/ADAydin1905/adaydinPool1/blob/main/myPool.extended-metadata.json"
 }
